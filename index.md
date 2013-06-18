@@ -8,14 +8,14 @@ title: An illustrated guide to competitive TF2
 Map Specific Guides
 ===================
 
-Snakewater
+cp_snakewater
 ----------
-![cp_snakewater](/img/snakewater.jpg)
+![cp_snakewater](img/snakewater.jpg)
 
-Granary
+cp_granary
 -------
-![cp_granary](/img/granary.jpg)
+![cp_granary](img/granary.jpg)
 
-Badlands
+cp_badlands
 --------
-![cp_badlands](/img/blands.jpg)
+![cp_badlands](img/blands.jpg)
