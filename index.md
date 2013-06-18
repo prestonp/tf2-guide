@@ -8,9 +8,10 @@ title: An illustrated guide to competitive TF2
 Fundamentals
 ============
 
+------------------------------
 <div id="class-pocket"></div>
 Pocket Soldier
---------------
+------------------------------
 
 ![Pocket](img/pocket.jpg)
 
@@ -89,7 +90,7 @@ Good pocketing habits
    Try answering these questions, hopefully without your team having to ask.
     
 
-
+---------------
 <div id="class-roamer"></div>
 Roaming Soldier
 ---------------
@@ -100,9 +101,11 @@ Roaming Soldier
 * Generates picks by element of surprise
 * Roams freely by controlling health packs
 
+
+---------------------------
 <div id="class-demo"></div>
 Demo
-----
+---------------------------
 
 ![Demo](img/demo.jpg)
 
@@ -110,17 +113,62 @@ Demo
 * Area denial
 * Controls height advantage
 
+----------------------------
 <div id="class-scout"></div>
 Scout
------
+----------------------------
 
 ![Scout](img/scout.jpg)
 
+----------------------------
 <div id="class-medic"></div>
 Medic
------
+----------------------------
 
 ![Medic](img/medic.jpg)
+
+Team Mechanics
+==============
+
+------------------------------
+<div id="team-uber-adv"></div>
+Uber Advantage
+------------------------------
+
+-----------------------------
+<div id="team-num-adv"></div>
+Number Advantage
+-----------------------------
+
+> create enormous pressure by forcing lop-sided team fights
+
+When playing, always keep tabs on how many players are on the battlefield. Press tab often and call
+team count vs enemy count. For example: calling "5v3" conveys that five of your team are alive 
+while only three of your enemies are alive.
+
+Considering numbers simplifies the game because you can simply overwhelm the other team if you have
+more players up. When you have more players alive, you can create enormous pressure by forcing lop-sided
+team fights. Even without uber, use expendable players like the roamers or scouts to make a 'play' 
+either forcing their medic to use uber or to outright kill their medic.
+
+As a general rule of thumb, having two players over the enemy team is an **automatic push**. Position your medic 
+behind the front lines to keep him safe from suicide plays. Even if you drop players, you can still push
+with confidence because the other team will be hurt and busy reloading. Don't let your teammates' deaths 
+go to waste. Press number advantages asap.
+
+Don't forget to factor in respawn times when making a push based on numbers. If you make a late push, you might
+realize you are pushing into more than what you bargained for. Respawn times vary by map so ensure your pushes 
+are made before the respawners have a chance to defend. 
+
+When at a number disadvantage, play passively. Defend as much territory as you possibly can without 
+committing deaths. It's extremely important not to bleed players one after another because your team might 
+find itself constantly disadvantaged. Slow their team's advance, force uber, and take easy kills but try to stay
+alive so that your team has a chance to fight back six players strong.
+
+<div id="team-leapfrog"></div>
+Leapfrogging
+------------
+
 
 
 Map Specific Guides
